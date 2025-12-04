@@ -39,17 +39,16 @@ Overall Pass Rate: 70.45%
 | Bug-012  | No “Out of Stock” indicator                       | Medium    |
 
 ## Documents Included
-- `FRS_DemoBlaze.pdf` – Functional Requirements Specification  
-- `Test_Plan_DemoBlaze.pdf` – Test Plan & Strategy
-- `Test_Plan_DemoBlaze.pdf` – Test Plan & Strategy  
-- `Test_Cases_DemoBlaze_Executed.xlsx` – 88 test cases with Actual Result, Status & Comments  
-- `Bug_Report_DemoBlaze.xlsx` – 19 detailed defects  
-- `Bug_Screenshots/` – Annotated proof for every major bug  
+- `FRS-DemoBlaze` – Functional Requirements Specification  
+- `TestPlan-DemoBlaze` – Test Plan & Strategy
+- `TestScenario-demoblaze` – Test Plan & Strategy  
+- `TestCases-DemoBlaze` – 88 test cases with Actual Result, Status & Comments  
+- `BugReport-DemoBlaze` – 19 detailed defects  
+- `BugScreenshots-demoblaze` – Annotated proof for every major bug  
 
 ## Skills Demonstrated
 - Full STLC Implementation  
 - Requirement Analysis & Traceability  
 - Test Case Design (Positive, Negative, Edge-case, ECP, BVA)  
 - Real Bug Hunting & Severity Assignment  
-- Professional Excel & PDF Reporting  
-- Cross-Browser Testing (Chrome & Edge)
+- Cross-Browser Testing (opera & Edge)
